@@ -30,7 +30,7 @@ BG: 0D1117 | Pink: FF3FB4 | Purple: A855F7 | Cyan: 22D3EE | Text: F8FAFC
 
 ---
 
-## 🧪 About me (a.k.a. what I do when the data behaves)
+## 🧪 About me 
 I combine **field data**, **lab analyses**, and **quantitative modelling (R/Python)** to understand how stressors like **artificial light (ALAN)**, **drought**, and **habitat fragmentation** affect organisms, interactions, and ecosystem outcomes — with a strong focus on **conservation use-cases**.
 
 **Keywords:** ecological modelling ✦ GIS ✦ remote sensing ✦ metabolomics ✦ chemical ecology
@@ -45,7 +45,7 @@ I combine **field data**, **lab analyses**, and **quantitative modelling (R/Pyth
 
 ---
 
-## 🧰 Toolbox (neon edition)
+## 🧰 Toolbox 
 
 | Modelling & Data | GIS & Spatial | Lab & Analytics | Field & Experimental |
 |---|---|---|---|
@@ -59,7 +59,7 @@ I combine **field data**, **lab analyses**, and **quantitative modelling (R/Pyth
 
 ---
 
-## 📌 Highlight reel (CV-synced, but GitHub-friendly)
+## 📌 Highlight reel 
 - **Wadden Sea geese vigilance** → distance, flock size, position; supports Many-Eyes + Edge effects  
 - **Savoy cabbage metabolomics (drought × fertilization)** → drought suppressed TCA intermediates; fertilization increased amino acids (serine/threonine/GABA)  
 - **UV-B vs greenhouse plant stress** → PSII efficiency comparison; greenhouse leaves higher efficiency  
